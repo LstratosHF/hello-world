@@ -1,3 +1,3 @@
 # hello-world
 first repository
- this is a qucik change made by me.
+ this is a quick change made by me.
